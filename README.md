@@ -11,7 +11,6 @@
 - AmiGemini
   - https://aminet.net/search?query=AmiGemini
 - Amiga ChatGPT
-  - https://lunduke.locals.com/post/4172924/amiga-chatgpt-https-github-com-sacredbanana-amigagpt-https-news-ycombinator-com-item-id
   - https://github.com/sacredbanana/AmigaGPT
   - https://news.ycombinator.com/item?id=36381963
 - Win3.1 Slack client
